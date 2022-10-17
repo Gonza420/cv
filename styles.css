@@ -164,5 +164,16 @@ span.texto {
   .conocimientos span.texto ul li {
     margin-top: 12px; }
 
+.lenguajes {
+  display: flex;
+  justify-content: space-between; }
+  .conocimientos span.texto ul li {
+    margin-top: 12px; }
+
+.datos {
+  display: flex;
+  justify-content: space-between; }
+  .conocimientos span.texto ul li {
+    margin-top: 12px; }
 
 /*# sourceMappingURL=styles.css.map */
